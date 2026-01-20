@@ -1,0 +1,6 @@
+
+{
+  "name": "O'GradysCore",
+  "description": "A sophisticated data analysis tool themed in emerald green, designed to ingest messy legacy UltiSales POS Excel files. It uses advanced parsing logic and Gemini AI to provide deep business insights.",
+  "requestFramePermissions": []
+}
